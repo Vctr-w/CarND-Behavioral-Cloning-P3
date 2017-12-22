@@ -11,9 +11,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./images_for_report/centre.png "Centre camera image from centre lane driving"
-[image2]: ./images_for_report/left.png "Left camera image from centre lane driving"
-[image3]: ./images_for_report/right.png "Right camera image from centre lane driving"
+[image1]: ./images_for_report/centre.jpg "Centre camera image from centre lane driving"
+[image2]: ./images_for_report/left.jpg "Left camera image from centre lane driving"
+[image3]: ./images_for_report/right.jpg "Right camera image from centre lane driving"
 
 ## Simulator
 
